@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8 15" width="8" height="15">
+	<title>Section</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #c2cfd7 } 
+	</style>
+	<g id="Section">
+		<g id="Footer">
+			<g id="Social Icons">
+				<path id="Facebook" class="shp0" d="M7.48 4.96L5.17 4.96L5.17 3.45C5.17 2.88 5.54 2.74 5.81 2.74C6.07 2.74 7.44 2.74 7.44 2.74L7.44 0.24L5.19 0.23C2.7 0.23 2.13 2.1 2.13 3.29L2.13 4.96L0.69 4.96L0.69 7.54L2.13 7.54C2.13 10.85 2.13 14.83 2.13 14.83L5.17 14.83C5.17 14.83 5.17 10.8 5.17 7.54L7.21 7.54L7.48 4.96Z" />
+			</g>
+		</g>
+	</g>
+</svg>
